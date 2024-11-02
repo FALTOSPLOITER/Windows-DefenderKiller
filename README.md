@@ -20,3 +20,6 @@ If i try to download mimikatz malicious binary:
 ![image](https://github.com/S12cybersecurity/WinDefenderKiller/assets/79543461/2f5e78b0-33f0-4012-a1d8-84ae8e26b6e7)
 
 Not detected by Windows Defender!
+
+# Disclaimer 
+The information/files provided in this repository are strictly intended for educational and ethical purposes only. The techniques and tools are intended to be used in a lawful and responsible manner, with the explicit consent of the target system's owner. Any unauthorized or malicious use of these techniques and tools is strictly prohibited and may result in legal consequences. I am not responsible for any damages or legal issues that may arise from the misuse of the information provided.
